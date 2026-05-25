@@ -1,5 +1,3 @@
-# Appendix of S²GS (Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction)
-
 <div align="center">
   <img src="teaser.png"/>
 </div><br/>
