@@ -2,7 +2,7 @@
   <img src="teaser.png"/>
 </div><br/>
 
-**This repository is the official appendix of "S²GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction".** This appendix complements the main manuscript with implementation details, ablation analyses, robustness evaluations, physical testbed evaluations, failure-case discussions, and extended comparisons. Together, the material clarifies the key design choices of S$^2$GS, evaluates its effectiveness under practical perturbations and edge-deployment cases, and provides more evidence of its capabilities and limitations.
+**This repository is the official appendix of "S²GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction".** This appendix complements the main manuscript with implementation details, ablation analyses, robustness evaluations, physical testbed evaluations, failure-case discussions, and extended comparisons. Together, the material clarifies the key design choices of S²GS, evaluates its effectiveness under practical perturbations and edge-deployment cases, and provides more evidence of its capabilities and limitations.
 
 ---
 
