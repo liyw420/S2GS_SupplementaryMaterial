@@ -1,4 +1,8 @@
-**This repository is the official supplementary material of "S²GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction".**
+<div align="center">
+  <img src="teaser.png"/>
+</div><br/>
+
+**This repository is the official supplementary material of "S²GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction on Edge-IoT Devices".**
 ---
 
 ## 🙏 Acknowledgements
