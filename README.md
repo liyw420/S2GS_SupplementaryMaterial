@@ -3,7 +3,6 @@
 </div><br/>
 
 This is the official supplementary material of "S²GS: Structured Sparse Gaussian Streaming for Efficient Free-Viewpoint Video Reconstruction on Edge-IoT Devices".
----
 
 ## 🙏 Acknowledgements
 
